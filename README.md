@@ -25,8 +25,6 @@ You can install the dependencies using the provided `requirements.txt` file.
    pip install -r requirements.txt
 
 ![image](https://github.com/user-attachments/assets/d4d637a8-ec0c-4dbf-9fd7-c56b1c2a55a1)
-![image](https://github.com/user-attachments/assets/b96a2bfd-aeba-4151-8bd9-c36aea8ee43e)
-
 
 
 Dev by Huskago (https://github.com/Huskago) AND 4D4J (https://github.com/4D4J)
