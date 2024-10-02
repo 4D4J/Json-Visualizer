@@ -26,7 +26,6 @@ You can install the dependencies using the provided `requirements.txt` file.
 
 ![image](https://github.com/user-attachments/assets/d4d637a8-ec0c-4dbf-9fd7-c56b1c2a55a1)
 ![image](https://github.com/user-attachments/assets/b96a2bfd-aeba-4151-8bd9-c36aea8ee43e)
-![image](https://github.com/user-attachments/assets/7048ea13-00a9-4981-b916-f4387d1a3af4)
 
 
 
